@@ -1,0 +1,16 @@
+// <Router history={browserHistory}>
+//   <Route path="/" component={App}>
+//     <IndexRoute component={Home} />
+//     <Route path="/films" component={Films}>
+//       <Route path="/films/:filmName" component={FilmDescription} />
+//     </Route>
+//     <Route path="/actors" component={Actors}>
+//       <Route path="/actors/:actorName" component={ActorDetails} />
+//     </Route>
+//   </Route>
+// </Router>,
+
+
+//<li><IndexLink className="pageLink" to="/">Home</IndexLink></li>
+//<li><Link className="pageLink" to="/films">Films</Link></li>
+//<li><Link className="pageLink" to="/actors">Actors</Link></li>
